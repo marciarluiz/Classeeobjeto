@@ -22,4 +22,7 @@ public class Aluno {
         // Atribui a idade recebida ao atributo do objeto.
         this.idade = idade;
     }
+    public static void main(String[] args) {
+        System.out.println("aaa");
+    }
 }
